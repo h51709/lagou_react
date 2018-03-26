@@ -1,0 +1,35 @@
+.top{
+	height:19.17vw;
+	line-height: 19.17vw;
+	padding:0 8.21vw;
+}
+.top span{
+	font-size: 4.93vw;
+}
+.top a{
+	font-size: 4vw;
+	color:#00b38a;
+	float: right;
+}
+.down{
+	height:57.53vw;
+	padding:0 8.21vw;
+	margin-top:6.84vw;
+}
+.down .in{
+	height:12.32vw;
+	border: 1px solid #dbdbdb;
+	font-size: 4.10vw;
+	color:#d5d5d5;
+}
+.down>.in:nth-child(2){
+	margin-top:3.8vw;
+	margin-bottom:11.55vw;
+}
+.down .btn{
+	width:83.01vw;
+	height:12.05vw;
+	background: #00b38a;
+	font-size: 4.10vw;
+	color:white;
+}

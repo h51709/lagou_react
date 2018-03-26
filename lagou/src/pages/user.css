@@ -1,0 +1,78 @@
+.con{
+	height:100%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+#sec{
+	flex:1
+}
+.lo_re{
+	width:33.97vw;
+	height:12.05vw;
+	text-align: center;
+	line-height: 12.05vw;
+	background: #1fc8a1;
+	margin: 12.05vw 34.24vw;
+	margin-top:20vw;
+	font-size:3.83vw;
+	color:white;
+}
+#user{
+	position: relative;
+	left:40vw;
+	margin-top:10vw;
+}
+#user>p{
+	width:22.73vw;
+	height:22.73vw;
+	background: url(../user.png) no-repeat;
+	margin-bottom:2vw;
+}
+#user>span{
+	display: inline-block;
+	text-align: center;
+	line-height: 5.47vw;
+	font-size:3.83vw;
+	width:22.73vw;
+	height:5.47vw;
+	margin-bottom:4vw;
+}
+.u_ser{
+	height:49.86vw;
+	padding: 0 4.10vw;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-content:space-between ;
+}
+.u_ser>li{
+	width:45.20vw;
+	height:23.28vw;
+	background: #1fc8a1;
+	text-align: center;
+	line-height: 23.28vw;
+	color:white;
+	font-size:4.93vw;
+}
+.btn2{
+	width:92vw;
+	height:12.05vw;
+	background: #1fc8a1;
+	font-size: 4.10vw;
+	color:white;
+	margin: 0 4.10vw;
+	font-size:4.93vw;
+	border-radius: 0px;
+	margin-top:5px;
+	outline:none;
+	border:none;
+}
+.foots{
+	width:100%;
+	position:absolute !important;
+	bottom:0;
+	left:0;
+	
+	/*bottom:-56.8vw;*/
+}

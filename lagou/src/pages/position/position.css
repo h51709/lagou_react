@@ -1,0 +1,38 @@
+.list .list-item{
+	height:24.65vw;
+	border-bottom:2px solid #f4f4f4;
+	display: flex;
+	justify-content: space-between;
+	padding: 3.28vw 3.28vw;
+}
+.list .list-item .item-logo{
+	width:16.98vw;
+	height:16.98vw;
+}
+.list .list-item .item-desc{
+	width:72vw;
+}
+.list .list-item .item-desc .item-title{
+	font-size:4.14vw;
+	margin:0;
+	font-weight: bold;
+}
+.list .list-item .item-desc .item-info{
+	float: left;
+	display: flex;
+	flex-direction: column;
+}
+.list .list-item .item-desc .item-info .item-pos{
+	font-size: 3.51vw;
+	margin: 2vw 0;
+}
+.list .list-item .item-desc .item-info .item-salary{
+	font-size: 3.01vw;
+	color:#888888
+}
+.list .list-item .item-desc .item-time{
+	float: right;
+	font-size: 4vw;
+	color:#0bb68f;
+	margin-top:2vw;
+}

@@ -1,0 +1,85 @@
+.top{
+	height:19.17vw;
+	line-height: 19.17vw;
+	padding:0 8.21vw;
+}
+.top span{
+	font-size: 4.93vw;
+}
+.top a{
+	font-size: 4vw;
+	color:#00b38a;
+	float: right;
+}
+.down{
+	height:57.53vw;
+	padding:0 8.21vw;
+	margin-top:6.84vw;
+}
+.down .b{
+	height:12.32vw;
+	border: 1px solid #dbdbdb;
+	font-size: 4.10vw;
+	color:#d5d5d5;
+}
+.down .b:nth-child(2){
+	margin:3.8vw 0;
+}
+.down .b:nth-child(3){
+	margin:3.8vw 0;
+}
+.down #img{
+	width:27.39vw;
+	height:12.32vw;
+	float:right;
+	margin-top:3.8vw;
+	margin-bottom:11.55vw;
+}
+.down .btn{
+	width:83.01vw;
+	height:12.05vw;
+	background: #00b38a;
+	font-size: 4.10vw;
+	color:white;
+}
+.down .code_list_main{
+	height:10.05vw;
+	width:23vw;
+	border: 1px solid #dbdbdb;
+	background: url(../bg.png) no-repeat 70px center;
+	padding-right:2.73vw;
+	text-align: center;
+	line-height: 10.05vw;
+	border-radius: 4px;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+.down .code_list_main .dl{
+	text-align: left;
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	height: 100%;
+	background: white;
+	overflow: auto;
+}
+.down .code_list_main .dl dl{
+	margin:0;
+}
+.down .code_list_main .dl dt{
+	height:5.47vw;
+	background: #fafafa;
+	font-size: 2.73vw;
+	font-weight: normal;
+	line-height: 5.47vw;
+	padding:0 5.47vw;
+	color:#666666;
+}
+.down .code_list_main .dl dd{
+	height:12.32vw;
+	border-bottom:1px solid #f7f7f7;
+	padding:0 5.47vw;
+	line-height: 12.32vw;
+	font-size: 4.10vw;
+	color:#333333;
+}

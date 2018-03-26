@@ -1,0 +1,43 @@
+body{
+	background-color: white;
+}
+.go_lo{
+	height:10.95vw;
+	padding: 0 4.38vw;
+	border-bottom:2px solid #f4f4f4;
+}
+.go_lo ul{
+	display: flex;
+	justify-content: space-between;
+	color:#6f6f6f;
+	font-size:3.85vw;
+	padding:0;
+}
+.go_lo ul li:nth-child(1){
+	line-height: 10.95vw;
+}
+.go_lo ul li:nth-child(2){
+	width:22.46vw;
+	height:8.21vw;
+	background: #f5f5f5;
+	border-radius: 40px;
+	text-align: center;
+	line-height: 8.21vw;
+	margin-top:1.09vw;
+}
+.go_lo ul li:nth-child(2) a{
+	color:#00b38a;
+}
+.list{
+	padding:0;
+	margin:0;
+}
+.more{
+	height: 13.69vw;
+	background: #fafafa;
+	text-align: center;
+	line-height: 13.69vw;
+	font-size:4.25vw;
+	margin-bottom:40vw;
+	margin-top:0;
+}
